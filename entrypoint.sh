@@ -6,6 +6,7 @@ Vless_Path="/s233"
 Vmess_UUID="98382fd1-daa8-4300-a2ab-49770765dcb6"
 Vmess_Path="/s244"
 Share_Path="/share233"
+PORT=80
 
 mkdir /xraybin
 cd /xraybin
